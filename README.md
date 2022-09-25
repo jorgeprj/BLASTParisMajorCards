@@ -1,5 +1,5 @@
 # Counter-Strike Pro Player Cards
-The idea of ​​the project is to create a simple layout in html/css for cards of professional Counter-Strike players. 
+The idea of ​​the project is to create a simple layout in html/css for professional Counter-Strike players cards. 
 
 This layout was a test and can be used as inspiration for the graphic part of the [Get_Right Project](https://github.com/jorgeprj/GetRightProject).
 
