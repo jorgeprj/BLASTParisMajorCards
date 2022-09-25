@@ -6,6 +6,9 @@ This layout was a test and can be used as inspiration for the graphic part of th
 ## Description
 A simple card layout containing: name, role, team, stats, traits and images of the player and the team. For the example, the following players were used: **Fnx** *(Imperial)*, **Fallen** *(Imperial)*, **Fer** *(Imperial)*, **Kscerato** *(Furia)*, **Kng** *(O Plano)*, **Felps** *(Fluxo)*, **Hen1** *(MIBR)*, **Coldzera** *(00 Nation)* and **Taco** *(00 Nation)*.
 
+![Print](src/images/print.png)
+
+
 ## Details
 
 ### Pro Players Card
