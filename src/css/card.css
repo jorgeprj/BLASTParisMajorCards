@@ -1,0 +1,135 @@
+.card-player{
+    display: none;
+    align-items: center;
+    justify-content: center;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 10px;
+}
+
+.card-player .card-top{
+    padding: 30px 40px 0;
+}
+
+.card-player .name{
+    margin-bottom: 5px;
+}
+
+.card-player .team{
+    font-size: 12px;
+    background-color: #fff;
+    opacity: 0.7;
+    border-radius: 10px;
+    padding: 2px 10px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.card-player .role{
+    font-size: 12px;
+    background-color: #fff;
+    opacity: 0.7;
+    border-radius: 10px;
+    padding: 2px 10px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.card-player .details{
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.card-player .card-image{
+    width: 400px;
+    height: 400px;
+}
+
+
+.card-player img{
+    max-height: 100%;
+}
+
+
+.card-player .card-info{
+    display: flex;
+    justify-content: space-between;
+    background-color: #fff;
+    padding: 80px 30px 50px;
+    margin-top: -70px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+.card-player .card-info h3{
+    font-size: 20px;
+    margin-bottom: 15px;
+    border-bottom: 1px solid #6B727A;
+}
+
+.card-player .card-info .stats,
+.card-player .card-info .traits{
+    padding: 0 10px;
+    width: 180px;
+}
+
+.card-player .card-info .stats ul li,
+.card-player .card-info .traits ul li{
+    border-bottom: 1px solid #C3C4C5;
+    padding: 0 0 5px;
+    margin-bottom: 5px;
+    font-size: 15px;
+}
+
+.card-player.open{
+    display: block;
+}
+
+.team-imperial{
+    background-image: url(../images/imperial.png);
+    background-repeat: no-repeat;
+    background-position: center 10%;
+    background-color: #000000;
+}
+
+.team-mibr{
+    background-image: url(../images/mibr.png);
+    background-repeat: no-repeat;
+    background-position: center 10%;
+    background-color: #010873;
+
+}
+
+.team-furia{
+    background-image: url(../images/furia.png);
+    background-repeat: no-repeat;
+    background-position: center 10%;
+    background-color: #060517;
+}
+
+.team-zerozero{
+    background-image: url(../images/zerozero.png);
+    background-repeat: no-repeat;
+    background-position: center 10%;
+    background-color: #000000;
+}
+
+.team-pain{
+    background-image: url(../images/zerozero.png);
+    background-repeat: no-repeat;
+    background-position: center 10%;
+    background-color: #d02e2e;
+}
+
+.team-oplano{
+    background-image: url(../images/oplano.png);
+    background-repeat: no-repeat;
+    background-position: center 10%;
+    background-color: #000000;
+}
+
+.team-fluxo{
+    background-image: url(../images/fluxo.png);
+    background-repeat: no-repeat;
+    background-position: center 10%;
+    background-color: #52027F;
+}

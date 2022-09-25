@@ -1,0 +1,36 @@
+.list{
+    max-width: 200px;
+}
+
+.list .player{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    background-color: #6B727A;
+    color: #fff;
+    padding: 0 5px;
+    cursor: pointer;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    min-height: 70px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    transition: 0.15s ease-in-out;
+}
+
+.list .player:hover{
+    transform: scale(1.05);
+}
+
+.list .player img{
+    width: 25%;
+    border-radius: 50%;
+}
+
+.list .player span{
+    padding-right: 20px;
+}
+
+.list .player.active{
+    background-color: #CD242E;
+}

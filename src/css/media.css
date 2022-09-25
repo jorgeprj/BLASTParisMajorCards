@@ -1,0 +1,57 @@
+@media (max-width: 750px) {
+    body{
+        font-size: 12px;
+    }
+
+    .players{
+        flex-direction: column;
+        padding: 30px 0;
+    }
+
+    .card-player{
+        max-width: 300px;
+    }
+
+    .card-player .card-image{
+        width: 200px;
+        height: 200px;
+    }
+
+    .card-player .card-info{
+        padding: 60px 30px 30px;
+        margin-top: -50px;
+    }
+
+    .card-player .card-info .info{
+        display: flex; 
+        justify-content: space-between;
+        padding: 0;
+    }
+
+    .card-player .card-info h3{
+        font-size: 16px;
+    }
+
+    .list{
+        max-width: 300px;
+    }
+
+    .list ul{
+        display: flex;
+        gap: 8px;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .list .player{
+        width: 140px;
+        border-top-left-radius: 0;
+        border-bottom-left-radius: 0;
+        margin-bottom: 0;
+        border-radius: 8px;
+    }
+
+    .list .player span{
+        padding-right: 5px;
+    }
+}
