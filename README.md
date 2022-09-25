@@ -8,7 +8,7 @@ A simple card layout containing: name, role, team, stats, traits and images of t
 
 ## Details
 
-### Pro Players Card
+### Pro Players Cards
 
 ![CSGO](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)
 
