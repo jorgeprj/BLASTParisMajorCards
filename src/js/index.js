@@ -18,6 +18,5 @@ listSelectedPlayers.forEach(player => {
 
         const playerSelecionadoNaListagem = document.getElementById(idSelectedPlayer)  
         playerSelecionadoNaListagem.classList.add('active')       
-
     })
 })

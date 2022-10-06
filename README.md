@@ -1,10 +1,10 @@
-# IEM Major Rio 2022 Cards
+# IEM Rio Major 2022 Cards
 The idea of ​​the project is to create a simple layout in html/css for professional Counter-Strike players cards. 
 
 This layout was a test and can be used as inspiration for the graphic part of the [Get_Right Project](https://github.com/jorgeprj/GetRightProject).
 
 ## Description
-A simple card layout, for IEM MAJOR RIO 2022, containing: name, role, team, stats, traits and images of the player and the team. For the example, the following players were used: **Fnx** *(Imperial)*, **Fallen** *(Imperial)*, **Fer** *(Imperial)*, **Kscerato** *(Furia)*, **Kng** *(O Plano)*, **Hen1** *(MIBR)*, **Coldzera** *(00 Nation)*, **Taco** *(00 Nation)* and **Dumau** *(00 Nation)*
+A simple card layout, for **IEM RIO MAJOR 2022**, containing: name, role, team, stats, traits and images of the player and the team. For the example, the following players were used: **Fnx** *(Imperial)*, **Fallen** *(Imperial)*, **Fer** *(Imperial)*, **Kscerato** *(Furia)*, **Kng** *(O Plano)*, **Hen1** *(MIBR)*, **Coldzera** *(00 Nation)*, **Taco** *(00 Nation)* and **Dumau** *(00 Nation)*
 
 ### 1.1 VERSION
 
@@ -15,7 +15,7 @@ A simple card layout, for IEM MAJOR RIO 2022, containing: name, role, team, stat
 ![PRINT](src/images/print2.png)
 
 
-For this new version, some details have been added. Like the ESL logo on all cards and the addition of the background used by the championship. In addition, as these are cards for the IEM MAJOR RIO 2022, there was a change of players: **Felps** *(Fluxo)* leaves  and **Dumau** *(00 Nation)* enters.
+For this new version, some details have been added. Like the ESL logo on all cards and the addition of the background used by the championship. In addition, as these are cards for the IEM RIO MAJOR 2022, there was a change of players: **Felps** *(Fluxo)* leaves  and **Dumau** *(00 Nation)* enters.
 
 
 ## Details

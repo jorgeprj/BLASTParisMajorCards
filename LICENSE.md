@@ -1,3 +1,4 @@
 Copyright © 2022 - [jorgeprj](https://github.com/jorgeprj)
 
-A permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia deste arquivo, com restrição de publicar como seu repositório. Porém, sem restrição nos direitos de usar, copiar, modificar e mesclar.
+
+The license is granted to anyone who makes a copy of this publication-restricted file as their free license. However, without restriction on the rights to use, copy, modify and merge.
