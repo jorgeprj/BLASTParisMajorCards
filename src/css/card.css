@@ -53,6 +53,10 @@
 .card-player .card-info{
     display: flex;
     justify-content: space-between;
+    background-image: url("../images/esl.png");
+    background-size: 15%;
+    background-repeat: no-repeat;
+    background-position: 400px 270px;
     background-color: #fff;
     padding: 80px 30px 50px;
     margin-top: -70px;
