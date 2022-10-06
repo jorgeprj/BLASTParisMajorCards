@@ -6,7 +6,13 @@ This layout was a test and can be used as inspiration for the graphic part of th
 ## Description
 A simple card layout containing: name, role, team, stats, traits and images of the player and the team. For the example, the following players were used: **Fnx** *(Imperial)*, **Fallen** *(Imperial)*, **Fer** *(Imperial)*, **Kscerato** *(Furia)*, **Kng** *(O Plano)*, **Felps** *(Fluxo)*, **Hen1** *(MIBR)*, **Coldzera** *(00 Nation)* and **Taco** *(00 Nation)*.
 
+### 1.1 VERSION
+
 ![PRINT](src/images/print.png)
+
+### 2.0 VERSION
+
+![PRINT](src/images/print2.png)
 
 
 ## Details
@@ -46,6 +52,7 @@ A simple card layout containing: name, role, team, stats, traits and images of t
 |-|-|-|-|
 | 09/24/2022 | Creation | [@jorgeprj](https://github.com/jorgeprj) | 1.0
 | 09/25/2022 | Add team logo | [@jorgeprj](https://github.com/jorgeprj) | 1.1
+| 10/06/2022 | Update IEM RIO 2022| [@jorgeprj](https://github.com/jorgeprj) | 2.0
 
 ## External Links
 
