@@ -1,10 +1,8 @@
-# IEM Rio Major 2022 Cards
+# BLAST Paris Major 2023 Cards
 The idea of ​​the project is to create a simple layout in html/css for professional Counter-Strike players cards. 
 
-This layout was a test and can be used as inspiration for the graphic part of the [Get_Right Project](https://github.com/jorgeprj/GetRightProject).
-
 ## Description
-A simple card layout, for **IEM RIO MAJOR 2022**, containing: name, role, team, stats, traits and images of the player and the team. For the example, the following players were used: **Fnx** *(Imperial)*, **Fallen** *(Imperial)*, **Fer** *(Imperial)*, **Kscerato** *(Furia)*, **Kng** *(O Plano)*, **Hen1** *(MIBR)*, **Coldzera** *(00 Nation)*, **Taco** *(00 Nation)* and **Dumau** *(00 Nation)*
+A simple card layout, for **BLAST Paris Major 2023**, containing: name, role, team, stats, traits, images of the player and the team and country. For the example, the following players were used: **Biguzera** *(Pain Gaming)*, **Zevy** *(Pain Gaming)*, **NEKIZ** *(Pain Gaming)*, **Kscerato** *(Furia)*, **saffee** *(Furia)*, **V$M** *(Fluxo)*, **Lucaozy** *(Fluxo)*, **felps** *(Fluxo)* and **WOOD7** *(Fluxo)*
 
 ### 1.1 VERSION
 
