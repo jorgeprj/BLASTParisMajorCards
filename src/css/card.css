@@ -49,11 +49,20 @@
     max-height: 100%;
 }
 
+.card-player .flag{
+    display: flex;
+    width: 45px;
+    height: 32px;
+    margin-left: 250px;
+    margin-top: -39px;
+}
+
+
 
 .card-player .card-info{
     display: flex;
     justify-content: space-between;
-    background-image: url("../images/esl.png");
+    background-image: url("../assets/blast.png");
     background-size: 15%;
     background-repeat: no-repeat;
     background-position: 400px 270px;
@@ -89,14 +98,14 @@
 }
 
 .team-imperial{
-    background-image: url(../images/imperial.png);
+    background-image: url(../assets/teams-logo/imperial.png);
     background-repeat: no-repeat;
     background-position: center 10%;
     background-color: #000000;
 }
 
 .team-mibr{
-    background-image: url(../images/mibr.png);
+    background-image: url(../assets/teams-logo/mibr.png);
     background-repeat: no-repeat;
     background-position: center 10%;
     background-color: #010873;
@@ -104,36 +113,36 @@
 }
 
 .team-furia{
-    background-image: url(../images/furia.png);
+    background-image: url(../assets/teams-logo/furia.png);
     background-repeat: no-repeat;
     background-position: center 10%;
     background-color: #060517;
 }
 
 .team-zerozero{
-    background-image: url(../images/zerozero.png);
+    background-image: url(../assets/teams-logo/zerozero.png);
     background-repeat: no-repeat;
     background-position: center 10%;
     background-color: #000000;
 }
 
 .team-pain{
-    background-image: url(../images/zerozero.png);
+    background-image: url(../assets/teams-logo/pain.png);
     background-repeat: no-repeat;
     background-position: center 10%;
     background-color: #d02e2e;
 }
 
 .team-oplano{
-    background-image: url(../images/oplano.png);
+    background-image: url(../assets/teams-logo/oplano.png);
     background-repeat: no-repeat;
     background-position: center 10%;
     background-color: #000000;
 }
 
 .team-fluxo{
-    background-image: url(../images/fluxo.png);
+    background-image: url(../assets/teams-logo/fluxo.png);
     background-repeat: no-repeat;
     background-position: center 10%;
-    background-color: #52027F;
+    background-color: #000000;
 }

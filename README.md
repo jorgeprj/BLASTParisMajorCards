@@ -8,14 +8,27 @@ A simple card layout, for **IEM RIO MAJOR 2022**, containing: name, role, team, 
 
 ### 1.1 VERSION
 
-![PRINT](src/images/print.png)
+![PRINT](src/assets/print.png)
 
 ### 2.0 VERSION
 
-![PRINT](src/images/print2.png)
+![PRINT](src/assets/print2.png)
 
 
-For this new version, some details have been added. Like the ESL logo on all cards and the addition of the background used by the championship. In addition, as these are cards for the IEM RIO MAJOR 2022, there was a change of players: **Felps** *(Fluxo)* leaves  and **Dumau** *(00 Nation)* enters.
+For this version, some details have been added. Like the ESL logo on all cards and the addition of the background used by the championship. In addition, as these are cards for the IEM RIO MAJOR 2022, there was a change of players: **Felps** *(Fluxo)* leaves  and **Dumau** *(00 Nation)* enters.
+
+### 3.0 VERSION
+
+![PRINT](src/assets/print3.png)
+
+
+For this new version, the flag of each player's country has been added and files have been renamed to make it easier to understand. Also, players are removed while others are added as per BLAST Paris Major 2023.
+
+**fnx** *(Imperial)* , **FalleN** *(Imperial)* , **Fer** *(Imperial)* , **kNgV-** *(O Plano)* , **HEN1** *(MIBR)* , **coldzera** *(00Nation)* , **TACO** *(00Nation)* and **dumau** *(00Nation)* leaves.
+
+**Biguzera** *(Pain Gaming)* , **Zevy** *(Pain Gaming)* , **NEKIZ** *(Pain Gaming)* , **Saffee** *(Furia)* , **V$M** *(Fluxo)* , **Lucaozy** *(Fluxo)* and **WOOD7** *(Fluxo)* enters.
+
+**felps** *(Fluxo)* returns.
 
 
 ## Details
@@ -56,7 +69,4 @@ For this new version, some details have been added. Like the ESL logo on all car
 | 09/24/2022 | Creation | [@jorgeprj](https://github.com/jorgeprj) | 1.0
 | 09/25/2022 | Add team logo behind each player | [@jorgeprj](https://github.com/jorgeprj) | 1.1
 | 10/06/2022 | Update IEM RIO 2022| [@jorgeprj](https://github.com/jorgeprj) | 2.0
-
-## External Links
-
-* [Get_Right Project](https://github.com/jorgeprj/GetRightProject)
+| 10/06/2022 | Update BLAST PARIS 2023| [@jorgeprj](https://github.com/jorgeprj) | 3.0
