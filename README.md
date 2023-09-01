@@ -1,21 +1,21 @@
-# BLAST Paris Major 2023 Cards
+# CSGO Major Cards
 The idea of ​​the project is to create a simple layout in html/css for professional Counter-Strike players cards. 
 
 ## Description
-A simple card layout, for **BLAST Paris Major 2023**, containing: name, role, team, stats, traits, images of the player and the team and country. For the example, the following players were used: **Biguzera** *(Pain Gaming)*, **Zevy** *(Pain Gaming)*, **NEKIZ** *(Pain Gaming)*, **Kscerato** *(Furia)*, **saffee** *(Furia)*, **V$M** *(Fluxo)*, **Lucaozy** *(Fluxo)*, **felps** *(Fluxo)* and **WOOD7** *(Fluxo)*
+A simple card layout, for **CSGO Major Players**, containing: name, role, team, stats, traits, images of the player and the team and country. For the example, in the last release the following players were used: **Biguzera** *(Pain Gaming)*, **Zevy** *(Pain Gaming)*, **NEKIZ** *(Pain Gaming)*, **Kscerato** *(Furia)*, **saffee** *(Furia)*, **V$M** *(Fluxo)*, **Lucaozy** *(Fluxo)*, **felps** *(Fluxo)* and **WOOD7** *(Fluxo)*
 
-### 1.1 VERSION
+### REALEASE 1.1
 
 ![PRINT](src/assets/print.png)
 
-### 2.0 VERSION
+### REALEASE 2.0
 
 ![PRINT](src/assets/print2.png)
 
 
 For this version, some details have been added. Like the ESL logo on all cards and the addition of the background used by the championship. In addition, as these are cards for the IEM RIO MAJOR 2022, there was a change of players: **Felps** *(Fluxo)* leaves  and **Dumau** *(00 Nation)* enters.
 
-### 3.0 VERSION
+### REALEASE 3.0
 
 ![PRINT](src/assets/print3.png)
 
@@ -43,28 +43,5 @@ For this new version, the flag of each player's country has been added and files
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-## Collaborators
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/93738600?v=4" width="100px;" alt="Jorge Pires Photo"/><br>
-        <sub>
-          <b>@jorgeprj</b>
-        </sub>
-      </a>
-    </td>
-    
-
-  </tr>
-</table>
-
 ## Changelog
-
-| Date | Change description | Developer | Version |
-|-|-|-|-|
-| 09/24/2022 | Creation | [@jorgeprj](https://github.com/jorgeprj) | 1.0
-| 09/25/2022 | Add team logo behind each player | [@jorgeprj](https://github.com/jorgeprj) | 1.1
-| 10/06/2022 | Update IEM RIO 2022| [@jorgeprj](https://github.com/jorgeprj) | 2.0
-| 10/06/2022 | Update BLAST PARIS 2023| [@jorgeprj](https://github.com/jorgeprj) | 3.0
+Now the changelog can be checked by github itself in realeases. Unfortunately, only from version 2.0
