@@ -35,7 +35,7 @@ For this new version, the flag of each player's country has been added and files
 
 ![CSGO](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)
 
-### Language
+### Technologies Used
 
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 

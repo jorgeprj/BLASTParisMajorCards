@@ -4,6 +4,12 @@
     justify-content: center;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
     border-radius: 10px;
+    transform: perspective(1000px);
+    transition: transform 0.3s ease-in-out;
+}
+
+.card-player:hover {
+    transform: perspective(1000px) rotateY(10deg);
 }
 
 .card-player .card-top{
