@@ -1,7 +1,7 @@
 # CSGO Major Cards
-The idea of ​​the project is to create a simple layout in html/css for professional Counter-Strike players cards. 
 
-## Description
+![CSGO-MAJOR-CARDS](src/assets/principal.png)
+
 A simple card layout, for **CSGO Major Players**, containing: name, role, team, stats, traits, images of the player and the team and country. For the example, in the last release the following players were used: **Biguzera** *(Pain Gaming)*, **Zevy** *(Pain Gaming)*, **NEKIZ** *(Pain Gaming)*, **Kscerato** *(Furia)*, **saffee** *(Furia)*, **V$M** *(Fluxo)*, **Lucaozy** *(Fluxo)*, **felps** *(Fluxo)* and **WOOD7** *(Fluxo)*
 
 ### REALEASE 1.1
